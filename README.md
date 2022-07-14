@@ -37,10 +37,12 @@ installiert werden.
 
 Schritt 1:
 Im ersten Schritt richten wir uns einen neuen Follower
-inkl. Konto ein.
+inkl. Konto ein. Solltet Ihr schon einen aktiven Follower
+haben, könnt Ihr gleich zum nächsten Schritt springen. Schritt 1
+dient lediglich der Überprüfung ob die Follower Verbindung klappt.
 
 - Öffnet den Playstore sucht und ladet bzw Installiert euch
-die LibreLinkUp App
+die LibreLinkUp App (https://play.google.com/store/apps/details?id=org.nativescript.LibreLinkUp)
 
 - Nach der Installation der LibreLinkUp App diese
 öffnen und im unteren Bereich ein neues Konto erstellen.
@@ -53,5 +55,15 @@ klicken danach auf LibreLinkUp Verwalten klicken
 
 - Als nächstes auf Verbindung hinzufügen dort trägt Ihr den Namen und
 die Emailadresse des zuvor erstellten Kontos ein.
+
+- Wechselt wieder in die LibreLinkUp App, akzeptiert die
+erhaltene Einladung
+
+- Nach einigen Sekunden evtl. auch Minuten solltet Ihr Werte
+in der LibreLinkUp App sehen
+
+Wenn Ihr keine Werte seht, ist irgendwo etwas schiefgelaufen, und Ihr
+solltet die Schritte nochmals durchgehen ! Es ist zwingend erforderlich
+das Ihr Daten empfängt.
 
 
