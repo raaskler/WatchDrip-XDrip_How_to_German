@@ -1,1 +1,1 @@
-# WatchDrip-XDrip_How_to_German
+# WatchDrip + XDrip für das MiBand 5/6
