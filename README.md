@@ -32,6 +32,26 @@ installiert werden.
 - Link XDrip
 - Link WatchDrip
 - Link freemayband.com
+- Libre LinkUp App
 
 
 Schritt 1:
+Im ersten Schritt richten wir uns einen neuen Follower
+inkl. Konto ein.
+
+- Öffnet den Playstore sucht und ladet bzw Installiert euch
+die LibreLinkUp App
+
+- Nach der Installation der LibreLinkUp App diese
+öffnen und im unteren Bereich ein neues Konto erstellen.
+
+- Merkt euch die Emailadresse welche Ihr für das neue Konto
+benutzt habt !
+
+- Wechselt in die Libre3 App im linken Menü auf: Verbundene Apps
+klicken danach auf LibreLinkUp Verwalten klicken 
+
+- Als nächstes auf Verbindung hinzufügen dort trägt Ihr den Namen und
+die Emailadresse des zuvor erstellten Kontos ein.
+
+
