@@ -9,4 +9,14 @@ Hinweise:
 
 
 
-#Was benötigt wird ?
+Was benötigt wird ?
+
+- XDrip
+- WatchDrip
+- aktiver Follower in der Libre3 App
+- Handy
+- MiBand 5/6
+- aktive Internetverbindung
+
+
+Schritt 1:
